@@ -1,0 +1,49 @@
+/* Header Styles */
+.header {
+    background: #d1b392;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 3em;
+}
+
+/* Navigation Bar */
+.navbar {
+    background: #333;
+    color: white;
+}
+
+.navbar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+.navbar ul li {
+    margin: 0 15px;
+}
+
+.navbar ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.2em;
+}
+
+.navbar ul li a:hover {
+    color: #ff9f43;
+}
+
+/* Footer */
+.footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+}
